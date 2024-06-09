@@ -20,7 +20,7 @@ namespace ILakshya.Dal
         {
             if (!options.IsConfigured)
             {
-                options.UseSqlServer("Data Source = localhost; Initial Catalog = AdminApiIlakshya; Integrated Security = true; TrustServerCertificate=True");
+                options.UseSqlServer("Data Source = localhost; Initial Catalog = IdAdmin; Integrated Security = true; TrustServerCertificate=True");
             }
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)

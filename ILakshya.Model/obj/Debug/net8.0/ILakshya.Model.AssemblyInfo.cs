@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ILakshya.Model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6110e429d6ebe04f24236353759e2d27690e7647")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7433baecb981a9ade000360a687283d15644a24")]
 [assembly: System.Reflection.AssemblyProductAttribute("ILakshya.Model")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ILakshya.Model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

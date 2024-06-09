@@ -7,7 +7,7 @@
 namespace ILakshya.Dal.Migrations
 {
     /// <inheritdoc />
-    public partial class Initally : Migration
+    public partial class initally : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

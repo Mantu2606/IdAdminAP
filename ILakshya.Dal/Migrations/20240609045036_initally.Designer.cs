@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ILakshya.Dal.Migrations
 {
     [DbContext(typeof(WebPocHubDbContext))]
-    [Migration("20240608061242_Initally")]
-    partial class Initally
+    [Migration("20240609045036_initally")]
+    partial class initally
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
