@@ -8001,19 +8001,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\mantu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\mantu\\c#Project\\ILakshya.WebApi\\ILakshya.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\ILakshya.WebApi.csproj",
       "projectName": "ILakshya.WebApi",
-      "projectPath": "C:\\Users\\Admin\\mantu\\c#Project\\ILakshya.WebApi\\ILakshya.WebApi.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\mantu\\c#Project\\ILakshya.WebApi\\obj\\",
+      "projectPath": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\ILakshya.WebApi.csproj",
+      "packagesPath": "C:\\Users\\mantu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mantu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8027,11 +8027,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\mantu\\c#Project\\ILakshya.Dal\\ILakshya.Dal.csproj": {
-              "projectPath": "C:\\Users\\Admin\\mantu\\c#Project\\ILakshya.Dal\\ILakshya.Dal.csproj"
+            "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Dal\\ILakshya.Dal.csproj": {
+              "projectPath": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Dal\\ILakshya.Dal.csproj"
             },
-            "C:\\Users\\Admin\\mantu\\c#Project\\ILakshya.Model\\ILakshya.Model.csproj": {
-              "projectPath": "C:\\Users\\Admin\\mantu\\c#Project\\ILakshya.Model\\ILakshya.Model.csproj"
+            "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Model\\ILakshya.Model.csproj": {
+              "projectPath": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Model\\ILakshya.Model.csproj"
             }
           }
         }
@@ -8040,6 +8040,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -8110,7 +8115,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

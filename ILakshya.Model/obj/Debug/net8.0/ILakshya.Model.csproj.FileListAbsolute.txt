@@ -47,3 +47,16 @@ C:\Users\Admin\mantu\c#Project\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.dl
 C:\Users\Admin\mantu\c#Project\ILakshya.Model\obj\Debug\net8.0\refint\ILakshya.Model.dll
 C:\Users\Admin\mantu\c#Project\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.pdb
 C:\Users\Admin\mantu\c#Project\ILakshya.Model\obj\Debug\net8.0\ref\ILakshya.Model.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.deps.json
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.pdb
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.csproj.AssemblyReference.cache
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.AssemblyInfoInputs.cache
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.AssemblyInfo.cs
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.csproj.CoreCompileInputs.cache
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.sourcelink.json
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\obj\Debug\net8.0\refint\ILakshya.Model.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.pdb
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\obj\Debug\net8.0\ref\ILakshya.Model.dll

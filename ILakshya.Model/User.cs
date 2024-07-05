@@ -21,6 +21,6 @@ namespace ILakshya.Model
         public string Password { get; set; } = string.Empty;
 
         public int RoleId { get; set; } // 1-Admin, 2-Teacher, 3-Student
-        public Role? Role { get; set; }
+        public Role? Role { get; set; } 
     }
 }

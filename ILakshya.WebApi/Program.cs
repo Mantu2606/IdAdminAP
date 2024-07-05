@@ -15,6 +15,7 @@ builder.Services.AddControllers();
 builder.Services.AddDbContext<WebPocHubDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("MySqlConstr")));
 //IT is True code
 builder.Services.AddTransient<ICommonRepository<Student>, CommonRepository<Student>>();
+builder.Services.AddTransient<ICommonRepository<StudentMarks>, CommonRepository<StudentMarks>>();
 builder.Services.AddTransient<ICommonRepository<Teacher>, CommonRepository<Teacher>>();
 
 
