@@ -21,6 +21,40 @@
   },
   {
     "ContainingType": "ILakshya.WebApi.Controllers.StudentController",
+<<<<<<< HEAD
+=======
+    "Method": "Update",
+    "RelativePath": "api/Student",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "ILakshya.Model.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 204
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      }
+    ]
+  },
+  {
+    "ContainingType": "ILakshya.WebApi.Controllers.StudentController",
+>>>>>>> 8d8ab89446f17c4e4a25ad148ffbeec73fbb73eb
     "Method": "GetById",
     "RelativePath": "api/Student/{id}",
     "HttpMethod": "GET",
